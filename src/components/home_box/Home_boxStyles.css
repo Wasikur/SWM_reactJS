@@ -1,0 +1,43 @@
+.test-box {
+    width: 90%;
+    color: #fff;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+
+.test-box h1 {
+    font-size: 42px;
+}
+
+.test-box {
+    margin: 10px 0 40px;
+    font-size: 14px;
+    color: #fff;
+}
+
+.hero-btn {
+    display: inline-block;
+    text-decoration: none;
+    color: #fff;
+    border: 1px solid #fff;
+    padding: 6px 24px;
+    background: transparent;
+    position: relative;
+    cursor: pointer;
+}
+
+.hero-btn:hover {
+    border: 1px solid #9fcd21;
+    background: #9fcd21;
+    color: black;
+    transition: 1s;
+}
+
+@media(max-width: 700px) {
+    .test-box h1 {
+        font-size: 20px;
+    }
+}
