@@ -1,0 +1,41 @@
+Project Description: Rhino Tech Waste Foundation Website
+Project Title: Rhino Tech Waste Foundation Website
+
+Tech Stack: MERN (MongoDB, Express.js, React.js, Node.js)
+
+Project Overview:
+The Rhino Tech Waste Foundation Website is designed to showcase the organization's work in waste management and recycling. Built using the MERN stack, the website provides comprehensive information about the foundation, including its mission, services, and contact details. It also features a contact form and an embedded Google Map for easy location access.
+
+Key Features:
+
+About Us:
+
+Detailed information about the Rhino Tech Waste Foundation, including its mission, vision, and history.
+Information about the team and their roles.
+Our Work:
+
+Sections highlighting the foundation's key projects and initiatives in waste management and recycling.
+Case studies or success stories showcasing the impact of their work.
+Services:
+
+A comprehensive list of services offered by the foundation, with detailed descriptions and images.
+Contact Us:
+
+A contact form for visitors to send inquiries directly from the website.
+Contact details including phone number, email address, and physical address.
+An embedded Google Map showing the foundation's location for easy navigation.
+Technical Implementation:
+
+Front-End:
+
+React.js: For building the user interface.
+React Router: For seamless navigation.
+CSS/SCSS: For styling and responsive design.
+Back-End:
+
+Node.js & Express.js: For server-side logic and API development.
+MongoDB: For managing and storing dynamic content and contact form submissions.
+Deployment:
+
+The website is hosted on platforms such as Heroku or Vercel for reliable and scalable access.
+This website effectively showcases the Rhino Tech Waste Foundation's commitment to waste management and recycling, providing visitors with all necessary information and a means to get in touch with the foundation easily.
